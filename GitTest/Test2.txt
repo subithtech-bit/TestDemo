@@ -1,4 +1,8 @@
 #Test2 First time Edit
 #Test2 Second Entry
 #Test3 Third entry
+<<<<<<< HEAD
 New entry
+=======
+#Test4 Fourth entry
+>>>>>>> parent of b0f920b (Revert "Fourth commit")
